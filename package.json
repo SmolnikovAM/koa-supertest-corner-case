@@ -1,0 +1,17 @@
+{
+  "name": "koa-test-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.7.1",
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "supertest": "^4.0.2"
+  }
+}
